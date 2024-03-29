@@ -1,10 +1,10 @@
 OKGoood
-<<<<<<< HEAD
+
 hello
 w
 goodgoodfooood
-=======
+
 hell
 
 goodgood
->>>>>>> origin/main
+
